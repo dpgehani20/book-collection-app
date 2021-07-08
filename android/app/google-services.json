@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975127162370",
+    "project_id": "testone-ba7a3",
+    "storage_bucket": "testone-ba7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975127162370:android:97fe46629a3524dbca011b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprojec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975127162370-q3t2lt4do7d0ktmldisqcq2j7lc1b7vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTowLP_5srbKu88l9DhI7LrXwvGYMWN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975127162370-q3t2lt4do7d0ktmldisqcq2j7lc1b7vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
